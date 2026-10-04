@@ -1,0 +1,10 @@
+{
+  "description": "Create a fully interactive landing page that mirrors provided PDF content, ensuring a seamless user experience with smooth animations and modern design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
